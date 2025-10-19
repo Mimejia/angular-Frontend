@@ -1,0 +1,12 @@
+# Angular / Node
+node_modules/
+dist/
+.tmp/
+.idea/
+.vscode/
+coverage/
+*.log
+.env
+.env.*
+# Angular cache
+.angular/
